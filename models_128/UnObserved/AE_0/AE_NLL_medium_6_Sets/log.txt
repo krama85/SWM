@@ -1,0 +1,35 @@
+Number of parameters in Encoder: 978054
+Number of parameters in Decoder: 518747
+Number of parameters in Transition: 2237184
+Number of parameters: 3733985
+Starting model training...
+Epoch: 1 [ 6/18891 ] 	 Loss: -3112529.500000
+Epoch: 1 [ 11/18891 ] 	 Loss: -6812942.000000
+Epoch: 1 [ 16/18891 ] 	 Loss: -11455018.000000
+Epoch: 1 [ 21/18891 ] 	 Loss: -18196356.000000
+Epoch: 1 [ 26/18891 ] 	 Loss: -28673210.000000
+Epoch: 1 [ 31/18891 ] 	 Loss: -41922632.000000
+Epoch: 1 [ 36/18891 ] 	 Loss: -57986496.000000
+====> Epoch: 1 Average train loss: -21017653.171875
+====> Average valid loss: -43747789.333333
+Epoch: 2 [ 6/18891 ] 	 Loss: -84473056.000000
+Epoch: 2 [ 11/18891 ] 	 Loss: -103639088.000000
+Epoch: 2 [ 16/18891 ] 	 Loss: -122600272.000000
+Epoch: 2 [ 21/18891 ] 	 Loss: -141461024.000000
+Epoch: 2 [ 26/18891 ] 	 Loss: -157475600.000000
+Epoch: 2 [ 31/18891 ] 	 Loss: -177962768.000000
+Epoch: 2 [ 36/18891 ] 	 Loss: -192175232.000000
+====> Epoch: 2 Average train loss: -132670321.729730
+====> Average valid loss: -211232860.444444
+Epoch: 3 [ 6/18891 ] 	 Loss: -222071808.000000
+Epoch: 3 [ 11/18891 ] 	 Loss: -239814816.000000
+Epoch: 3 [ 16/18891 ] 	 Loss: -253331392.000000
+Epoch: 3 [ 21/18891 ] 	 Loss: -271190912.000000
+Epoch: 3 [ 26/18891 ] 	 Loss: -293934432.000000
+Epoch: 3 [ 31/18891 ] 	 Loss: -307142912.000000
+Epoch: 3 [ 36/18891 ] 	 Loss: -327228352.000000
+====> Epoch: 3 Average train loss: -265951002.378378
+====> Average valid loss: -356564131.555556
+Epoch: 4 [ 6/18891 ] 	 Loss: -349277024.000000
+Epoch: 4 [ 11/18891 ] 	 Loss: -366446976.000000
+Epoch: 4 [ 16/18891 ] 	 Loss: -387977280.000000
