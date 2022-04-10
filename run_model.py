@@ -16,6 +16,7 @@ from cswm.utils import OneHot, PathDataset
 import sys
 import datetime
 import os
+import cv2
 
 from itertools import chain
 
@@ -42,6 +43,12 @@ device = torch.device('cuda' if args.cuda else 'cpu')
 
 input_shape = (3, 50, 50)
 
+dataset = utils.StateTransitionsDataset(
+   hdf5_file=args.dataset, action_transform=OneHot(args.action_dim))
+
+train_loader = data.DataLoader(
+    dataset, batch_size=args.batch_size, shuffle=True, num_workers=args.num_workers)
+
 model = CausalTransitionModel(
     embedding_dim_per_object=args.embedding_dim_per_object,
     hidden_dim=args.hidden_dim,
@@ -60,21 +67,12 @@ model = CausalTransitionModel(
 
 model.load_state_dict(torch.load(model_file))
 
-dataset = PathDataset(
-    hdf5_file=args.eval_dataset, path_length=10,
-    action_transform=OneHot(args.num_objects * args.action_dim),
-    in_memory=False)
+for batch_idx, data_batch in enumerate(iterator):
+    model.train()
+    data_batch = [tensor.to(device) for tensor in data_batch]
+    obs, action, next_obs, _, _ = data_batch
 
-obs, actions = dataset[50]
-
-for i in range(len(obs)):
-    obs[i] = torch.from_numpy(obs[i]).cuda()
-
-for i in range(len(actions)):
-    actions[i] = torch.from_numpy(actions[i]).cuda()
-
-for i in range(len(obs)):
-    state, _ = model.encode(obs[i].cuda().unsqueeze(0))
-    next_state = model.transition(state, actions[i].cuda().unsqueeze(0))
+    state, _ = model.encode(obs)
+    next_state = model.transition(state, actions)
 
 
