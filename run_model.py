@@ -68,6 +68,7 @@ dataset = PathDataset(
     in_memory=False)
 
 obs, actions = dataset[0]
+obs = obs/255
 
 for i in range(len(obs)):
     obs[i] = torch.from_numpy(obs[i]).cuda()
