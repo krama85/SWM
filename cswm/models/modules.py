@@ -13,9 +13,6 @@ from . import (
 
 #from models.nns.nn.nn.recurrents import recurrent
 
-#from modularity import RIM, SCOFF
-
-
 class CausalTransitionModel(nn.Module):
     """Main module for a Causal transition model.
     Args:
