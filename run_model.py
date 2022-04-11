@@ -30,6 +30,7 @@ args_eval = parser.parse_args()
 
 
 meta_file = args_eval.save_folder / 'metadata.pkl'
+
 model_file = args_eval.save_folder / 'finetuned_model.pt'
 
 with open(meta_file, 'rb') as f:
@@ -62,8 +63,8 @@ model = CausalTransitionModel(
 model.load_state_dict(torch.load(model_file))
 
 dataset = PathDataset(
-    hdf5_file=args.eval_dataset, path_length=10,
-    action_transform=OneHot(args.num_objects * args.action_dim),
+    hdf5_file=args.dataset, path_length=10,
+    action_transform=OneHot(args.action_dim),
     in_memory=False)
 
 obs, actions = dataset[0]
@@ -76,7 +77,7 @@ for i in range(len(actions)):
 
 for i in range(len(obs)):
 
-    state, _ = model.encode(obs)
-    next_state = model.transition(state, actions)
+    state, _ = model.encode(obs[i].cuda().unsqueeze(0))
+    next_state = model.transition(state, actions[i].cuda().unsqueeze(0))
 
 
