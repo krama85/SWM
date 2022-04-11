@@ -1,0 +1,905 @@
+Number of parameters in Encoder: 395336
+Number of parameters in Decoder: 239207
+Number of parameters in Transition: 795648
+Number of parameters: 1430191
+Starting model training...
+Epoch: 1 [ 6/18891 ] 	 Loss: 12.609703
+Epoch: 1 [ 11/18891 ] 	 Loss: 4.210164
+Epoch: 1 [ 16/18891 ] 	 Loss: 1.634049
+Epoch: 1 [ 21/18891 ] 	 Loss: 0.959349
+Epoch: 1 [ 26/18891 ] 	 Loss: 0.696842
+Epoch: 1 [ 31/18891 ] 	 Loss: 0.505022
+Epoch: 1 [ 36/18891 ] 	 Loss: 0.347900
+====> Epoch: 1 Average train loss: 5.680674
+====> Average valid loss: 0.366720
+Epoch: 2 [ 6/18891 ] 	 Loss: 0.195303
+Epoch: 2 [ 11/18891 ] 	 Loss: 0.140466
+Epoch: 2 [ 16/18891 ] 	 Loss: 0.115017
+Epoch: 2 [ 21/18891 ] 	 Loss: 0.101278
+Epoch: 2 [ 26/18891 ] 	 Loss: 0.090123
+Epoch: 2 [ 31/18891 ] 	 Loss: 0.079766
+Epoch: 2 [ 36/18891 ] 	 Loss: 0.075344
+====> Epoch: 2 Average train loss: 0.128146
+====> Average valid loss: 0.138551
+Epoch: 3 [ 6/18891 ] 	 Loss: 0.063181
+Epoch: 3 [ 11/18891 ] 	 Loss: 0.060975
+Epoch: 3 [ 16/18891 ] 	 Loss: 0.052476
+Epoch: 3 [ 21/18891 ] 	 Loss: 0.060889
+Epoch: 3 [ 26/18891 ] 	 Loss: 0.054297
+Epoch: 3 [ 31/18891 ] 	 Loss: 0.059622
+Epoch: 3 [ 36/18891 ] 	 Loss: 0.058066
+====> Epoch: 3 Average train loss: 0.058211
+====> Average valid loss: 0.117576
+Epoch: 4 [ 6/18891 ] 	 Loss: 0.051870
+Epoch: 4 [ 11/18891 ] 	 Loss: 0.050841
+Epoch: 4 [ 16/18891 ] 	 Loss: 0.044488
+Epoch: 4 [ 21/18891 ] 	 Loss: 0.044951
+Epoch: 4 [ 26/18891 ] 	 Loss: 0.051530
+Epoch: 4 [ 31/18891 ] 	 Loss: 0.036658
+Epoch: 4 [ 36/18891 ] 	 Loss: 0.038188
+====> Epoch: 4 Average train loss: 0.046141
+====> Average valid loss: 0.107421
+Epoch: 5 [ 6/18891 ] 	 Loss: 0.043573
+Epoch: 5 [ 11/18891 ] 	 Loss: 0.038755
+Epoch: 5 [ 16/18891 ] 	 Loss: 0.045846
+Epoch: 5 [ 21/18891 ] 	 Loss: 0.045716
+Epoch: 5 [ 26/18891 ] 	 Loss: 0.038185
+Epoch: 5 [ 31/18891 ] 	 Loss: 0.030685
+Epoch: 5 [ 36/18891 ] 	 Loss: 0.041724
+====> Epoch: 5 Average train loss: 0.038954
+====> Average valid loss: 0.112919
+Epoch: 6 [ 6/18891 ] 	 Loss: 0.036556
+Epoch: 6 [ 11/18891 ] 	 Loss: 0.035755
+Epoch: 6 [ 16/18891 ] 	 Loss: 0.030010
+Epoch: 6 [ 21/18891 ] 	 Loss: 0.039067
+Epoch: 6 [ 26/18891 ] 	 Loss: 0.035866
+Epoch: 6 [ 31/18891 ] 	 Loss: 0.037206
+Epoch: 6 [ 36/18891 ] 	 Loss: 0.033691
+====> Epoch: 6 Average train loss: 0.034764
+====> Average valid loss: 0.114041
+Epoch: 7 [ 6/18891 ] 	 Loss: 0.037127
+Epoch: 7 [ 11/18891 ] 	 Loss: 0.038198
+Epoch: 7 [ 16/18891 ] 	 Loss: 0.029425
+Epoch: 7 [ 21/18891 ] 	 Loss: 0.029842
+Epoch: 7 [ 26/18891 ] 	 Loss: 0.031303
+Epoch: 7 [ 31/18891 ] 	 Loss: 0.036596
+Epoch: 7 [ 36/18891 ] 	 Loss: 0.031970
+====> Epoch: 7 Average train loss: 0.031520
+====> Average valid loss: 0.113072
+Epoch: 8 [ 6/18891 ] 	 Loss: 0.024974
+Epoch: 8 [ 11/18891 ] 	 Loss: 0.025590
+Epoch: 8 [ 16/18891 ] 	 Loss: 0.029802
+Epoch: 8 [ 21/18891 ] 	 Loss: 0.023150
+Epoch: 8 [ 26/18891 ] 	 Loss: 0.034548
+Epoch: 8 [ 31/18891 ] 	 Loss: 0.027758
+Epoch: 8 [ 36/18891 ] 	 Loss: 0.028273
+====> Epoch: 8 Average train loss: 0.028361
+====> Average valid loss: 0.107754
+Epoch: 9 [ 6/18891 ] 	 Loss: 0.025449
+Epoch: 9 [ 11/18891 ] 	 Loss: 0.026048
+Epoch: 9 [ 16/18891 ] 	 Loss: 0.026888
+Epoch: 9 [ 21/18891 ] 	 Loss: 0.023666
+Epoch: 9 [ 26/18891 ] 	 Loss: 0.028547
+Epoch: 9 [ 31/18891 ] 	 Loss: 0.023794
+Epoch: 9 [ 36/18891 ] 	 Loss: 0.026527
+====> Epoch: 9 Average train loss: 0.026285
+====> Average valid loss: 0.100925
+Epoch: 10 [ 6/18891 ] 	 Loss: 0.025628
+Epoch: 10 [ 11/18891 ] 	 Loss: 0.027855
+Epoch: 10 [ 16/18891 ] 	 Loss: 0.023783
+Epoch: 10 [ 21/18891 ] 	 Loss: 0.023543
+Epoch: 10 [ 26/18891 ] 	 Loss: 0.023679
+Epoch: 10 [ 31/18891 ] 	 Loss: 0.029541
+Epoch: 10 [ 36/18891 ] 	 Loss: 0.021391
+====> Epoch: 10 Average train loss: 0.024844
+====> Average valid loss: 0.102166
+Epoch: 11 [ 6/18891 ] 	 Loss: 0.022506
+Epoch: 11 [ 11/18891 ] 	 Loss: 0.017212
+Epoch: 11 [ 16/18891 ] 	 Loss: 0.028662
+Epoch: 11 [ 21/18891 ] 	 Loss: 0.021035
+Epoch: 11 [ 26/18891 ] 	 Loss: 0.020152
+Epoch: 11 [ 31/18891 ] 	 Loss: 0.025351
+Epoch: 11 [ 36/18891 ] 	 Loss: 0.027477
+====> Epoch: 11 Average train loss: 0.023899
+====> Average valid loss: 0.103082
+Epoch: 12 [ 6/18891 ] 	 Loss: 0.023121
+Epoch: 12 [ 11/18891 ] 	 Loss: 0.019333
+Epoch: 12 [ 16/18891 ] 	 Loss: 0.017235
+Epoch: 12 [ 21/18891 ] 	 Loss: 0.021697
+Epoch: 12 [ 26/18891 ] 	 Loss: 0.023127
+Epoch: 12 [ 31/18891 ] 	 Loss: 0.018731
+Epoch: 12 [ 36/18891 ] 	 Loss: 0.018976
+====> Epoch: 12 Average train loss: 0.021620
+====> Average valid loss: 0.095957
+Epoch: 13 [ 6/18891 ] 	 Loss: 0.017360
+Epoch: 13 [ 11/18891 ] 	 Loss: 0.020552
+Epoch: 13 [ 16/18891 ] 	 Loss: 0.018926
+Epoch: 13 [ 21/18891 ] 	 Loss: 0.022777
+Epoch: 13 [ 26/18891 ] 	 Loss: 0.018850
+Epoch: 13 [ 31/18891 ] 	 Loss: 0.022317
+Epoch: 13 [ 36/18891 ] 	 Loss: 0.018547
+====> Epoch: 13 Average train loss: 0.020953
+====> Average valid loss: 0.100579
+Epoch: 14 [ 6/18891 ] 	 Loss: 0.019272
+Epoch: 14 [ 11/18891 ] 	 Loss: 0.018142
+Epoch: 14 [ 16/18891 ] 	 Loss: 0.019173
+Epoch: 14 [ 21/18891 ] 	 Loss: 0.016891
+Epoch: 14 [ 26/18891 ] 	 Loss: 0.026789
+Epoch: 14 [ 31/18891 ] 	 Loss: 0.017042
+Epoch: 14 [ 36/18891 ] 	 Loss: 0.021711
+====> Epoch: 14 Average train loss: 0.019368
+====> Average valid loss: 0.105425
+Epoch: 15 [ 6/18891 ] 	 Loss: 0.013157
+Epoch: 15 [ 11/18891 ] 	 Loss: 0.017850
+Epoch: 15 [ 16/18891 ] 	 Loss: 0.019041
+Epoch: 15 [ 21/18891 ] 	 Loss: 0.021751
+Epoch: 15 [ 26/18891 ] 	 Loss: 0.018632
+Epoch: 15 [ 31/18891 ] 	 Loss: 0.019466
+Epoch: 15 [ 36/18891 ] 	 Loss: 0.021282
+====> Epoch: 15 Average train loss: 0.019565
+====> Average valid loss: 0.096059
+Epoch: 16 [ 6/18891 ] 	 Loss: 0.016969
+Epoch: 16 [ 11/18891 ] 	 Loss: 0.021228
+Epoch: 16 [ 16/18891 ] 	 Loss: 0.017133
+Epoch: 16 [ 21/18891 ] 	 Loss: 0.012958
+Epoch: 16 [ 26/18891 ] 	 Loss: 0.020145
+Epoch: 16 [ 31/18891 ] 	 Loss: 0.019359
+Epoch: 16 [ 36/18891 ] 	 Loss: 0.013877
+====> Epoch: 16 Average train loss: 0.017573
+====> Average valid loss: 0.109441
+Epoch: 17 [ 6/18891 ] 	 Loss: 0.022338
+Epoch: 17 [ 11/18891 ] 	 Loss: 0.020384
+Epoch: 17 [ 16/18891 ] 	 Loss: 0.016736
+Epoch: 17 [ 21/18891 ] 	 Loss: 0.015661
+Epoch: 17 [ 26/18891 ] 	 Loss: 0.016716
+Epoch: 17 [ 31/18891 ] 	 Loss: 0.014721
+Epoch: 17 [ 36/18891 ] 	 Loss: 0.016657
+====> Epoch: 17 Average train loss: 0.017815
+====> Average valid loss: 0.102511
+Epoch: 18 [ 6/18891 ] 	 Loss: 0.016381
+Epoch: 18 [ 11/18891 ] 	 Loss: 0.014888
+Epoch: 18 [ 16/18891 ] 	 Loss: 0.018736
+Epoch: 18 [ 21/18891 ] 	 Loss: 0.013883
+Epoch: 18 [ 26/18891 ] 	 Loss: 0.021297
+Epoch: 18 [ 31/18891 ] 	 Loss: 0.017398
+Epoch: 18 [ 36/18891 ] 	 Loss: 0.020198
+====> Epoch: 18 Average train loss: 0.017715
+====> Average valid loss: 0.092149
+Epoch: 19 [ 6/18891 ] 	 Loss: 0.017228
+Epoch: 19 [ 11/18891 ] 	 Loss: 0.019226
+Epoch: 19 [ 16/18891 ] 	 Loss: 0.019052
+Epoch: 19 [ 21/18891 ] 	 Loss: 0.020451
+Epoch: 19 [ 26/18891 ] 	 Loss: 0.017884
+Epoch: 19 [ 31/18891 ] 	 Loss: 0.015612
+Epoch: 19 [ 36/18891 ] 	 Loss: 0.016164
+====> Epoch: 19 Average train loss: 0.017526
+====> Average valid loss: 0.102958
+Epoch: 20 [ 6/18891 ] 	 Loss: 0.014179
+Epoch: 20 [ 11/18891 ] 	 Loss: 0.018069
+Epoch: 20 [ 16/18891 ] 	 Loss: 0.017747
+Epoch: 20 [ 21/18891 ] 	 Loss: 0.010646
+Epoch: 20 [ 26/18891 ] 	 Loss: 0.013957
+Epoch: 20 [ 31/18891 ] 	 Loss: 0.018518
+Epoch: 20 [ 36/18891 ] 	 Loss: 0.015263
+====> Epoch: 20 Average train loss: 0.016783
+====> Average valid loss: 0.091014
+Epoch: 21 [ 6/18891 ] 	 Loss: 0.016715
+Epoch: 21 [ 11/18891 ] 	 Loss: 0.013457
+Epoch: 21 [ 16/18891 ] 	 Loss: 0.018621
+Epoch: 21 [ 21/18891 ] 	 Loss: 0.013394
+Epoch: 21 [ 26/18891 ] 	 Loss: 0.012744
+Epoch: 21 [ 31/18891 ] 	 Loss: 0.026544
+Epoch: 21 [ 36/18891 ] 	 Loss: 0.020242
+====> Epoch: 21 Average train loss: 0.016191
+====> Average valid loss: 0.099180
+Epoch: 22 [ 6/18891 ] 	 Loss: 0.013267
+Epoch: 22 [ 11/18891 ] 	 Loss: 0.011999
+Epoch: 22 [ 16/18891 ] 	 Loss: 0.013494
+Epoch: 22 [ 21/18891 ] 	 Loss: 0.020483
+Epoch: 22 [ 26/18891 ] 	 Loss: 0.014007
+Epoch: 22 [ 31/18891 ] 	 Loss: 0.012908
+Epoch: 22 [ 36/18891 ] 	 Loss: 0.012091
+====> Epoch: 22 Average train loss: 0.015300
+====> Average valid loss: 0.093412
+Epoch: 23 [ 6/18891 ] 	 Loss: 0.014260
+Epoch: 23 [ 11/18891 ] 	 Loss: 0.021651
+Epoch: 23 [ 16/18891 ] 	 Loss: 0.013949
+Epoch: 23 [ 21/18891 ] 	 Loss: 0.015060
+Epoch: 23 [ 26/18891 ] 	 Loss: 0.013781
+Epoch: 23 [ 31/18891 ] 	 Loss: 0.019208
+Epoch: 23 [ 36/18891 ] 	 Loss: 0.013093
+====> Epoch: 23 Average train loss: 0.015682
+====> Average valid loss: 0.100270
+Epoch: 24 [ 6/18891 ] 	 Loss: 0.017833
+Epoch: 24 [ 11/18891 ] 	 Loss: 0.017672
+Epoch: 24 [ 16/18891 ] 	 Loss: 0.015244
+Epoch: 24 [ 21/18891 ] 	 Loss: 0.017582
+Epoch: 24 [ 26/18891 ] 	 Loss: 0.020851
+Epoch: 24 [ 31/18891 ] 	 Loss: 0.014062
+Epoch: 24 [ 36/18891 ] 	 Loss: 0.011427
+====> Epoch: 24 Average train loss: 0.015167
+====> Average valid loss: 0.096209
+Epoch: 25 [ 6/18891 ] 	 Loss: 0.016215
+Epoch: 25 [ 11/18891 ] 	 Loss: 0.015462
+Epoch: 25 [ 16/18891 ] 	 Loss: 0.009608
+Epoch: 25 [ 21/18891 ] 	 Loss: 0.012608
+Epoch: 25 [ 26/18891 ] 	 Loss: 0.011756
+Epoch: 25 [ 31/18891 ] 	 Loss: 0.012430
+Epoch: 25 [ 36/18891 ] 	 Loss: 0.012351
+====> Epoch: 25 Average train loss: 0.013892
+====> Average valid loss: 0.109954
+Epoch: 26 [ 6/18891 ] 	 Loss: 0.009539
+Epoch: 26 [ 11/18891 ] 	 Loss: 0.013069
+Epoch: 26 [ 16/18891 ] 	 Loss: 0.012223
+Epoch: 26 [ 21/18891 ] 	 Loss: 0.017253
+Epoch: 26 [ 26/18891 ] 	 Loss: 0.011388
+Epoch: 26 [ 31/18891 ] 	 Loss: 0.013828
+Epoch: 26 [ 36/18891 ] 	 Loss: 0.013192
+====> Epoch: 26 Average train loss: 0.014468
+====> Average valid loss: 0.089005
+Epoch: 27 [ 6/18891 ] 	 Loss: 0.015865
+Epoch: 27 [ 11/18891 ] 	 Loss: 0.012173
+Epoch: 27 [ 16/18891 ] 	 Loss: 0.014416
+Epoch: 27 [ 21/18891 ] 	 Loss: 0.015010
+Epoch: 27 [ 26/18891 ] 	 Loss: 0.011827
+Epoch: 27 [ 31/18891 ] 	 Loss: 0.016622
+Epoch: 27 [ 36/18891 ] 	 Loss: 0.013816
+====> Epoch: 27 Average train loss: 0.013164
+====> Average valid loss: 0.094277
+Epoch: 28 [ 6/18891 ] 	 Loss: 0.019607
+Epoch: 28 [ 11/18891 ] 	 Loss: 0.018223
+Epoch: 28 [ 16/18891 ] 	 Loss: 0.016645
+Epoch: 28 [ 21/18891 ] 	 Loss: 0.017318
+Epoch: 28 [ 26/18891 ] 	 Loss: 0.016581
+Epoch: 28 [ 31/18891 ] 	 Loss: 0.015797
+Epoch: 28 [ 36/18891 ] 	 Loss: 0.017697
+====> Epoch: 28 Average train loss: 0.013466
+====> Average valid loss: 0.106013
+Epoch: 29 [ 6/18891 ] 	 Loss: 0.011339
+Epoch: 29 [ 11/18891 ] 	 Loss: 0.009727
+Epoch: 29 [ 16/18891 ] 	 Loss: 0.016711
+Epoch: 29 [ 21/18891 ] 	 Loss: 0.008557
+Epoch: 29 [ 26/18891 ] 	 Loss: 0.017427
+Epoch: 29 [ 31/18891 ] 	 Loss: 0.014900
+Epoch: 29 [ 36/18891 ] 	 Loss: 0.012794
+====> Epoch: 29 Average train loss: 0.013190
+====> Average valid loss: 0.097849
+Epoch: 30 [ 6/18891 ] 	 Loss: 0.013003
+Epoch: 30 [ 11/18891 ] 	 Loss: 0.016059
+Epoch: 30 [ 16/18891 ] 	 Loss: 0.009390
+Epoch: 30 [ 21/18891 ] 	 Loss: 0.014212
+Epoch: 30 [ 26/18891 ] 	 Loss: 0.012203
+Epoch: 30 [ 31/18891 ] 	 Loss: 0.011558
+Epoch: 30 [ 36/18891 ] 	 Loss: 0.008555
+====> Epoch: 30 Average train loss: 0.012690
+====> Average valid loss: 0.100078
+Epoch: 31 [ 6/18891 ] 	 Loss: 0.007869
+Epoch: 31 [ 11/18891 ] 	 Loss: 0.009623
+Epoch: 31 [ 16/18891 ] 	 Loss: 0.011032
+Epoch: 31 [ 21/18891 ] 	 Loss: 0.010101
+Epoch: 31 [ 26/18891 ] 	 Loss: 0.013287
+Epoch: 31 [ 31/18891 ] 	 Loss: 0.013812
+Epoch: 31 [ 36/18891 ] 	 Loss: 0.011638
+====> Epoch: 31 Average train loss: 0.012227
+====> Average valid loss: 0.096669
+Epoch: 32 [ 6/18891 ] 	 Loss: 0.012640
+Epoch: 32 [ 11/18891 ] 	 Loss: 0.018656
+Epoch: 32 [ 16/18891 ] 	 Loss: 0.014644
+Epoch: 32 [ 21/18891 ] 	 Loss: 0.014550
+Epoch: 32 [ 26/18891 ] 	 Loss: 0.014436
+Epoch: 32 [ 31/18891 ] 	 Loss: 0.010331
+Epoch: 32 [ 36/18891 ] 	 Loss: 0.010966
+====> Epoch: 32 Average train loss: 0.013216
+====> Average valid loss: 0.101081
+Epoch: 33 [ 6/18891 ] 	 Loss: 0.007728
+Epoch: 33 [ 11/18891 ] 	 Loss: 0.008986
+Epoch: 33 [ 16/18891 ] 	 Loss: 0.008783
+Epoch: 33 [ 21/18891 ] 	 Loss: 0.011120
+Epoch: 33 [ 26/18891 ] 	 Loss: 0.012243
+Epoch: 33 [ 31/18891 ] 	 Loss: 0.015434
+Epoch: 33 [ 36/18891 ] 	 Loss: 0.011578
+====> Epoch: 33 Average train loss: 0.011848
+====> Average valid loss: 0.095471
+Epoch: 34 [ 6/18891 ] 	 Loss: 0.017636
+Epoch: 34 [ 11/18891 ] 	 Loss: 0.006863
+Epoch: 34 [ 16/18891 ] 	 Loss: 0.009978
+Epoch: 34 [ 21/18891 ] 	 Loss: 0.012884
+Epoch: 34 [ 26/18891 ] 	 Loss: 0.012473
+Epoch: 34 [ 31/18891 ] 	 Loss: 0.007355
+Epoch: 34 [ 36/18891 ] 	 Loss: 0.010088
+====> Epoch: 34 Average train loss: 0.011300
+====> Average valid loss: 0.104887
+Epoch: 35 [ 6/18891 ] 	 Loss: 0.012847
+Epoch: 35 [ 11/18891 ] 	 Loss: 0.016438
+Epoch: 35 [ 16/18891 ] 	 Loss: 0.014911
+Epoch: 35 [ 21/18891 ] 	 Loss: 0.007895
+Epoch: 35 [ 26/18891 ] 	 Loss: 0.009006
+Epoch: 35 [ 31/18891 ] 	 Loss: 0.010562
+Epoch: 35 [ 36/18891 ] 	 Loss: 0.015214
+====> Epoch: 35 Average train loss: 0.010983
+====> Average valid loss: 0.099780
+Epoch: 36 [ 6/18891 ] 	 Loss: 0.009219
+Epoch: 36 [ 11/18891 ] 	 Loss: 0.016034
+Epoch: 36 [ 16/18891 ] 	 Loss: 0.010216
+Epoch: 36 [ 21/18891 ] 	 Loss: 0.012768
+Epoch: 36 [ 26/18891 ] 	 Loss: 0.010099
+Epoch: 36 [ 31/18891 ] 	 Loss: 0.007344
+Epoch: 36 [ 36/18891 ] 	 Loss: 0.009550
+====> Epoch: 36 Average train loss: 0.011862
+====> Average valid loss: 0.095945
+Epoch: 37 [ 6/18891 ] 	 Loss: 0.007466
+Epoch: 37 [ 11/18891 ] 	 Loss: 0.010860
+Epoch: 37 [ 16/18891 ] 	 Loss: 0.015425
+Epoch: 37 [ 21/18891 ] 	 Loss: 0.007988
+Epoch: 37 [ 26/18891 ] 	 Loss: 0.012504
+Epoch: 37 [ 31/18891 ] 	 Loss: 0.016345
+Epoch: 37 [ 36/18891 ] 	 Loss: 0.010433
+====> Epoch: 37 Average train loss: 0.011426
+====> Average valid loss: 0.099917
+Epoch: 38 [ 6/18891 ] 	 Loss: 0.012036
+Epoch: 38 [ 11/18891 ] 	 Loss: 0.006614
+Epoch: 38 [ 16/18891 ] 	 Loss: 0.010299
+Epoch: 38 [ 21/18891 ] 	 Loss: 0.007882
+Epoch: 38 [ 26/18891 ] 	 Loss: 0.010135
+Epoch: 38 [ 31/18891 ] 	 Loss: 0.012606
+Epoch: 38 [ 36/18891 ] 	 Loss: 0.006155
+====> Epoch: 38 Average train loss: 0.010409
+====> Average valid loss: 0.104991
+Epoch: 39 [ 6/18891 ] 	 Loss: 0.005881
+Epoch: 39 [ 11/18891 ] 	 Loss: 0.008687
+Epoch: 39 [ 16/18891 ] 	 Loss: 0.011165
+Epoch: 39 [ 21/18891 ] 	 Loss: 0.012703
+Epoch: 39 [ 26/18891 ] 	 Loss: 0.010339
+Epoch: 39 [ 31/18891 ] 	 Loss: 0.008390
+Epoch: 39 [ 36/18891 ] 	 Loss: 0.014845
+====> Epoch: 39 Average train loss: 0.010460
+====> Average valid loss: 0.096997
+Epoch: 40 [ 6/18891 ] 	 Loss: 0.009693
+Epoch: 40 [ 11/18891 ] 	 Loss: 0.006150
+Epoch: 40 [ 16/18891 ] 	 Loss: 0.009257
+Epoch: 40 [ 21/18891 ] 	 Loss: 0.011623
+Epoch: 40 [ 26/18891 ] 	 Loss: 0.011680
+Epoch: 40 [ 31/18891 ] 	 Loss: 0.013401
+Epoch: 40 [ 36/18891 ] 	 Loss: 0.017021
+====> Epoch: 40 Average train loss: 0.010826
+====> Average valid loss: 0.095961
+Epoch: 41 [ 6/18891 ] 	 Loss: 0.012891
+Epoch: 41 [ 11/18891 ] 	 Loss: 0.011489
+Epoch: 41 [ 16/18891 ] 	 Loss: 0.007246
+Epoch: 41 [ 21/18891 ] 	 Loss: 0.004837
+Epoch: 41 [ 26/18891 ] 	 Loss: 0.008464
+Epoch: 41 [ 31/18891 ] 	 Loss: 0.007940
+Epoch: 41 [ 36/18891 ] 	 Loss: 0.013395
+====> Epoch: 41 Average train loss: 0.010786
+====> Average valid loss: 0.098114
+Epoch: 42 [ 6/18891 ] 	 Loss: 0.013009
+Epoch: 42 [ 11/18891 ] 	 Loss: 0.010599
+Epoch: 42 [ 16/18891 ] 	 Loss: 0.008713
+Epoch: 42 [ 21/18891 ] 	 Loss: 0.018429
+Epoch: 42 [ 26/18891 ] 	 Loss: 0.011527
+Epoch: 42 [ 31/18891 ] 	 Loss: 0.008917
+Epoch: 42 [ 36/18891 ] 	 Loss: 0.009488
+====> Epoch: 42 Average train loss: 0.010397
+====> Average valid loss: 0.101860
+Epoch: 43 [ 6/18891 ] 	 Loss: 0.013334
+Epoch: 43 [ 11/18891 ] 	 Loss: 0.016309
+Epoch: 43 [ 16/18891 ] 	 Loss: 0.010492
+Epoch: 43 [ 21/18891 ] 	 Loss: 0.008987
+Epoch: 43 [ 26/18891 ] 	 Loss: 0.009914
+Epoch: 43 [ 31/18891 ] 	 Loss: 0.014751
+Epoch: 43 [ 36/18891 ] 	 Loss: 0.012992
+====> Epoch: 43 Average train loss: 0.010397
+====> Average valid loss: 0.091124
+Epoch: 44 [ 6/18891 ] 	 Loss: 0.017906
+Epoch: 44 [ 11/18891 ] 	 Loss: 0.008083
+Epoch: 44 [ 16/18891 ] 	 Loss: 0.010966
+Epoch: 44 [ 21/18891 ] 	 Loss: 0.009727
+Epoch: 44 [ 26/18891 ] 	 Loss: 0.010441
+Epoch: 44 [ 31/18891 ] 	 Loss: 0.010388
+Epoch: 44 [ 36/18891 ] 	 Loss: 0.007543
+====> Epoch: 44 Average train loss: 0.010266
+====> Average valid loss: 0.086773
+Epoch: 45 [ 6/18891 ] 	 Loss: 0.011227
+Epoch: 45 [ 11/18891 ] 	 Loss: 0.008842
+Epoch: 45 [ 16/18891 ] 	 Loss: 0.007353
+Epoch: 45 [ 21/18891 ] 	 Loss: 0.007681
+Epoch: 45 [ 26/18891 ] 	 Loss: 0.009076
+Epoch: 45 [ 31/18891 ] 	 Loss: 0.009235
+Epoch: 45 [ 36/18891 ] 	 Loss: 0.004550
+====> Epoch: 45 Average train loss: 0.009624
+====> Average valid loss: 0.094873
+Epoch: 46 [ 6/18891 ] 	 Loss: 0.008557
+Epoch: 46 [ 11/18891 ] 	 Loss: 0.011378
+Epoch: 46 [ 16/18891 ] 	 Loss: 0.005622
+Epoch: 46 [ 21/18891 ] 	 Loss: 0.010810
+Epoch: 46 [ 26/18891 ] 	 Loss: 0.014300
+Epoch: 46 [ 31/18891 ] 	 Loss: 0.010821
+Epoch: 46 [ 36/18891 ] 	 Loss: 0.016167
+====> Epoch: 46 Average train loss: 0.010463
+====> Average valid loss: 0.099307
+Epoch: 47 [ 6/18891 ] 	 Loss: 0.011127
+Epoch: 47 [ 11/18891 ] 	 Loss: 0.013325
+Epoch: 47 [ 16/18891 ] 	 Loss: 0.013415
+Epoch: 47 [ 21/18891 ] 	 Loss: 0.011513
+Epoch: 47 [ 26/18891 ] 	 Loss: 0.005462
+Epoch: 47 [ 31/18891 ] 	 Loss: 0.009676
+Epoch: 47 [ 36/18891 ] 	 Loss: 0.006858
+====> Epoch: 47 Average train loss: 0.010050
+====> Average valid loss: 0.098046
+Epoch: 48 [ 6/18891 ] 	 Loss: 0.016339
+Epoch: 48 [ 11/18891 ] 	 Loss: 0.016838
+Epoch: 48 [ 16/18891 ] 	 Loss: 0.011309
+Epoch: 48 [ 21/18891 ] 	 Loss: 0.008968
+Epoch: 48 [ 26/18891 ] 	 Loss: 0.008607
+Epoch: 48 [ 31/18891 ] 	 Loss: 0.012653
+Epoch: 48 [ 36/18891 ] 	 Loss: 0.003888
+====> Epoch: 48 Average train loss: 0.009316
+====> Average valid loss: 0.102321
+Epoch: 49 [ 6/18891 ] 	 Loss: 0.014739
+Epoch: 49 [ 11/18891 ] 	 Loss: 0.011215
+Epoch: 49 [ 16/18891 ] 	 Loss: 0.009464
+Epoch: 49 [ 21/18891 ] 	 Loss: 0.006038
+Epoch: 49 [ 26/18891 ] 	 Loss: 0.010475
+Epoch: 49 [ 31/18891 ] 	 Loss: 0.007580
+Epoch: 49 [ 36/18891 ] 	 Loss: 0.011574
+====> Epoch: 49 Average train loss: 0.010557
+====> Average valid loss: 0.096620
+Epoch: 50 [ 6/18891 ] 	 Loss: 0.013717
+Epoch: 50 [ 11/18891 ] 	 Loss: 0.006844
+Epoch: 50 [ 16/18891 ] 	 Loss: 0.005021
+Epoch: 50 [ 21/18891 ] 	 Loss: 0.007941
+Epoch: 50 [ 26/18891 ] 	 Loss: 0.017681
+Epoch: 50 [ 31/18891 ] 	 Loss: 0.008843
+Epoch: 50 [ 36/18891 ] 	 Loss: 0.007876
+====> Epoch: 50 Average train loss: 0.010088
+====> Average valid loss: 0.109050
+Epoch: 51 [ 6/18891 ] 	 Loss: 0.012665
+Epoch: 51 [ 11/18891 ] 	 Loss: 0.008858
+Epoch: 51 [ 16/18891 ] 	 Loss: 0.012372
+Epoch: 51 [ 21/18891 ] 	 Loss: 0.009516
+Epoch: 51 [ 26/18891 ] 	 Loss: 0.007302
+Epoch: 51 [ 31/18891 ] 	 Loss: 0.008670
+Epoch: 51 [ 36/18891 ] 	 Loss: 0.009015
+====> Epoch: 51 Average train loss: 0.009264
+====> Average valid loss: 0.097902
+Epoch: 52 [ 6/18891 ] 	 Loss: 0.006572
+Epoch: 52 [ 11/18891 ] 	 Loss: 0.013405
+Epoch: 52 [ 16/18891 ] 	 Loss: 0.009578
+Epoch: 52 [ 21/18891 ] 	 Loss: 0.011428
+Epoch: 52 [ 26/18891 ] 	 Loss: 0.006081
+Epoch: 52 [ 31/18891 ] 	 Loss: 0.005484
+Epoch: 52 [ 36/18891 ] 	 Loss: 0.009341
+====> Epoch: 52 Average train loss: 0.008521
+====> Average valid loss: 0.099429
+Epoch: 53 [ 6/18891 ] 	 Loss: 0.007759
+Epoch: 53 [ 11/18891 ] 	 Loss: 0.010151
+Epoch: 53 [ 16/18891 ] 	 Loss: 0.005986
+Epoch: 53 [ 21/18891 ] 	 Loss: 0.010739
+Epoch: 53 [ 26/18891 ] 	 Loss: 0.008440
+Epoch: 53 [ 31/18891 ] 	 Loss: 0.011611
+Epoch: 53 [ 36/18891 ] 	 Loss: 0.007784
+====> Epoch: 53 Average train loss: 0.009222
+====> Average valid loss: 0.101246
+Epoch: 54 [ 6/18891 ] 	 Loss: 0.008282
+Epoch: 54 [ 11/18891 ] 	 Loss: 0.006544
+Epoch: 54 [ 16/18891 ] 	 Loss: 0.011756
+Epoch: 54 [ 21/18891 ] 	 Loss: 0.011481
+Epoch: 54 [ 26/18891 ] 	 Loss: 0.007205
+Epoch: 54 [ 31/18891 ] 	 Loss: 0.008694
+Epoch: 54 [ 36/18891 ] 	 Loss: 0.009067
+====> Epoch: 54 Average train loss: 0.008624
+====> Average valid loss: 0.095252
+Epoch: 55 [ 6/18891 ] 	 Loss: 0.005703
+Epoch: 55 [ 11/18891 ] 	 Loss: 0.005501
+Epoch: 55 [ 16/18891 ] 	 Loss: 0.007569
+Epoch: 55 [ 21/18891 ] 	 Loss: 0.011443
+Epoch: 55 [ 26/18891 ] 	 Loss: 0.012791
+Epoch: 55 [ 31/18891 ] 	 Loss: 0.008369
+Epoch: 55 [ 36/18891 ] 	 Loss: 0.007405
+====> Epoch: 55 Average train loss: 0.009054
+====> Average valid loss: 0.112473
+Epoch: 56 [ 6/18891 ] 	 Loss: 0.011203
+Epoch: 56 [ 11/18891 ] 	 Loss: 0.005210
+Epoch: 56 [ 16/18891 ] 	 Loss: 0.003507
+Epoch: 56 [ 21/18891 ] 	 Loss: 0.004734
+Epoch: 56 [ 26/18891 ] 	 Loss: 0.006951
+Epoch: 56 [ 31/18891 ] 	 Loss: 0.007194
+Epoch: 56 [ 36/18891 ] 	 Loss: 0.005672
+====> Epoch: 56 Average train loss: 0.007265
+====> Average valid loss: 0.100942
+Epoch: 57 [ 6/18891 ] 	 Loss: 0.011191
+Epoch: 57 [ 11/18891 ] 	 Loss: 0.007321
+Epoch: 57 [ 16/18891 ] 	 Loss: 0.004644
+Epoch: 57 [ 21/18891 ] 	 Loss: 0.006918
+Epoch: 57 [ 26/18891 ] 	 Loss: 0.007737
+Epoch: 57 [ 31/18891 ] 	 Loss: 0.009542
+Epoch: 57 [ 36/18891 ] 	 Loss: 0.004095
+====> Epoch: 57 Average train loss: 0.008715
+====> Average valid loss: 0.100269
+Epoch: 58 [ 6/18891 ] 	 Loss: 0.005597
+Epoch: 58 [ 11/18891 ] 	 Loss: 0.010272
+Epoch: 58 [ 16/18891 ] 	 Loss: 0.012208
+Epoch: 58 [ 21/18891 ] 	 Loss: 0.013404
+Epoch: 58 [ 26/18891 ] 	 Loss: 0.007471
+Epoch: 58 [ 31/18891 ] 	 Loss: 0.004893
+Epoch: 58 [ 36/18891 ] 	 Loss: 0.007397
+====> Epoch: 58 Average train loss: 0.008591
+====> Average valid loss: 0.102042
+Epoch: 59 [ 6/18891 ] 	 Loss: 0.008069
+Epoch: 59 [ 11/18891 ] 	 Loss: 0.003887
+Epoch: 59 [ 16/18891 ] 	 Loss: 0.005034
+Epoch: 59 [ 21/18891 ] 	 Loss: 0.008937
+Epoch: 59 [ 26/18891 ] 	 Loss: 0.008135
+Epoch: 59 [ 31/18891 ] 	 Loss: 0.007249
+Epoch: 59 [ 36/18891 ] 	 Loss: 0.015606
+====> Epoch: 59 Average train loss: 0.009069
+====> Average valid loss: 0.097963
+Epoch: 60 [ 6/18891 ] 	 Loss: 0.004870
+Epoch: 60 [ 11/18891 ] 	 Loss: 0.007634
+Epoch: 60 [ 16/18891 ] 	 Loss: 0.005106
+Epoch: 60 [ 21/18891 ] 	 Loss: 0.007850
+Epoch: 60 [ 26/18891 ] 	 Loss: 0.008402
+Epoch: 60 [ 31/18891 ] 	 Loss: 0.012894
+Epoch: 60 [ 36/18891 ] 	 Loss: 0.009777
+====> Epoch: 60 Average train loss: 0.008168
+====> Average valid loss: 0.105968
+Epoch: 61 [ 6/18891 ] 	 Loss: 0.004688
+Epoch: 61 [ 11/18891 ] 	 Loss: 0.003936
+Epoch: 61 [ 16/18891 ] 	 Loss: 0.007341
+Epoch: 61 [ 21/18891 ] 	 Loss: 0.008752
+Epoch: 61 [ 26/18891 ] 	 Loss: 0.008222
+Epoch: 61 [ 31/18891 ] 	 Loss: 0.008024
+Epoch: 61 [ 36/18891 ] 	 Loss: 0.008663
+====> Epoch: 61 Average train loss: 0.008821
+====> Average valid loss: 0.109207
+Epoch: 62 [ 6/18891 ] 	 Loss: 0.005814
+Epoch: 62 [ 11/18891 ] 	 Loss: 0.009350
+Epoch: 62 [ 16/18891 ] 	 Loss: 0.008773
+Epoch: 62 [ 21/18891 ] 	 Loss: 0.004622
+Epoch: 62 [ 26/18891 ] 	 Loss: 0.005513
+Epoch: 62 [ 31/18891 ] 	 Loss: 0.004014
+Epoch: 62 [ 36/18891 ] 	 Loss: 0.008478
+====> Epoch: 62 Average train loss: 0.007477
+====> Average valid loss: 0.095465
+Epoch: 63 [ 6/18891 ] 	 Loss: 0.009410
+Epoch: 63 [ 11/18891 ] 	 Loss: 0.011483
+Epoch: 63 [ 16/18891 ] 	 Loss: 0.005147
+Epoch: 63 [ 21/18891 ] 	 Loss: 0.011140
+Epoch: 63 [ 26/18891 ] 	 Loss: 0.005433
+Epoch: 63 [ 31/18891 ] 	 Loss: 0.005697
+Epoch: 63 [ 36/18891 ] 	 Loss: 0.004757
+====> Epoch: 63 Average train loss: 0.008151
+====> Average valid loss: 0.096103
+Epoch: 64 [ 6/18891 ] 	 Loss: 0.008337
+Epoch: 64 [ 11/18891 ] 	 Loss: 0.007485
+Epoch: 64 [ 16/18891 ] 	 Loss: 0.009402
+Epoch: 64 [ 21/18891 ] 	 Loss: 0.006553
+Epoch: 64 [ 26/18891 ] 	 Loss: 0.004650
+Epoch: 64 [ 31/18891 ] 	 Loss: 0.003882
+Epoch: 64 [ 36/18891 ] 	 Loss: 0.007246
+====> Epoch: 64 Average train loss: 0.007620
+====> Average valid loss: 0.101450
+Epoch: 65 [ 6/18891 ] 	 Loss: 0.007780
+Epoch: 65 [ 11/18891 ] 	 Loss: 0.006376
+Epoch: 65 [ 16/18891 ] 	 Loss: 0.010261
+Epoch: 65 [ 21/18891 ] 	 Loss: 0.010288
+Epoch: 65 [ 26/18891 ] 	 Loss: 0.005300
+Epoch: 65 [ 31/18891 ] 	 Loss: 0.010131
+Epoch: 65 [ 36/18891 ] 	 Loss: 0.006816
+====> Epoch: 65 Average train loss: 0.008519
+====> Average valid loss: 0.090030
+Epoch: 66 [ 6/18891 ] 	 Loss: 0.005251
+Epoch: 66 [ 11/18891 ] 	 Loss: 0.009398
+Epoch: 66 [ 16/18891 ] 	 Loss: 0.002918
+Epoch: 66 [ 21/18891 ] 	 Loss: 0.005647
+Epoch: 66 [ 26/18891 ] 	 Loss: 0.009786
+Epoch: 66 [ 31/18891 ] 	 Loss: 0.009540
+Epoch: 66 [ 36/18891 ] 	 Loss: 0.005718
+====> Epoch: 66 Average train loss: 0.007156
+====> Average valid loss: 0.099469
+Epoch: 67 [ 6/18891 ] 	 Loss: 0.006696
+Epoch: 67 [ 11/18891 ] 	 Loss: 0.012280
+Epoch: 67 [ 16/18891 ] 	 Loss: 0.014769
+Epoch: 67 [ 21/18891 ] 	 Loss: 0.011276
+Epoch: 67 [ 26/18891 ] 	 Loss: 0.006250
+Epoch: 67 [ 31/18891 ] 	 Loss: 0.006742
+Epoch: 67 [ 36/18891 ] 	 Loss: 0.011747
+====> Epoch: 67 Average train loss: 0.008008
+====> Average valid loss: 0.104233
+Epoch: 68 [ 6/18891 ] 	 Loss: 0.011144
+Epoch: 68 [ 11/18891 ] 	 Loss: 0.007646
+Epoch: 68 [ 16/18891 ] 	 Loss: 0.006970
+Epoch: 68 [ 21/18891 ] 	 Loss: 0.003122
+Epoch: 68 [ 26/18891 ] 	 Loss: 0.006125
+Epoch: 68 [ 31/18891 ] 	 Loss: 0.005378
+Epoch: 68 [ 36/18891 ] 	 Loss: 0.009833
+====> Epoch: 68 Average train loss: 0.007604
+====> Average valid loss: 0.102409
+Epoch: 69 [ 6/18891 ] 	 Loss: 0.006785
+Epoch: 69 [ 11/18891 ] 	 Loss: 0.003139
+Epoch: 69 [ 16/18891 ] 	 Loss: 0.013206
+Epoch: 69 [ 21/18891 ] 	 Loss: 0.005765
+Epoch: 69 [ 26/18891 ] 	 Loss: 0.005736
+Epoch: 69 [ 31/18891 ] 	 Loss: 0.011154
+Epoch: 69 [ 36/18891 ] 	 Loss: 0.013180
+====> Epoch: 69 Average train loss: 0.007686
+====> Average valid loss: 0.091714
+Epoch: 70 [ 6/18891 ] 	 Loss: 0.007885
+Epoch: 70 [ 11/18891 ] 	 Loss: 0.005227
+Epoch: 70 [ 16/18891 ] 	 Loss: 0.005752
+Epoch: 70 [ 21/18891 ] 	 Loss: 0.011876
+Epoch: 70 [ 26/18891 ] 	 Loss: 0.006944
+Epoch: 70 [ 31/18891 ] 	 Loss: 0.008362
+Epoch: 70 [ 36/18891 ] 	 Loss: 0.009106
+====> Epoch: 70 Average train loss: 0.007082
+====> Average valid loss: 0.100421
+Epoch: 71 [ 6/18891 ] 	 Loss: 0.005257
+Epoch: 71 [ 11/18891 ] 	 Loss: 0.009608
+Epoch: 71 [ 16/18891 ] 	 Loss: 0.007341
+Epoch: 71 [ 21/18891 ] 	 Loss: 0.002930
+Epoch: 71 [ 26/18891 ] 	 Loss: 0.007773
+Epoch: 71 [ 31/18891 ] 	 Loss: 0.006849
+Epoch: 71 [ 36/18891 ] 	 Loss: 0.009051
+====> Epoch: 71 Average train loss: 0.007682
+====> Average valid loss: 0.103169
+Epoch: 72 [ 6/18891 ] 	 Loss: 0.005436
+Epoch: 72 [ 11/18891 ] 	 Loss: 0.010200
+Epoch: 72 [ 16/18891 ] 	 Loss: 0.006064
+Epoch: 72 [ 21/18891 ] 	 Loss: 0.006954
+Epoch: 72 [ 26/18891 ] 	 Loss: 0.008829
+Epoch: 72 [ 31/18891 ] 	 Loss: 0.008848
+Epoch: 72 [ 36/18891 ] 	 Loss: 0.005202
+====> Epoch: 72 Average train loss: 0.006901
+====> Average valid loss: 0.099323
+Epoch: 73 [ 6/18891 ] 	 Loss: 0.009261
+Epoch: 73 [ 11/18891 ] 	 Loss: 0.003217
+Epoch: 73 [ 16/18891 ] 	 Loss: 0.002704
+Epoch: 73 [ 21/18891 ] 	 Loss: 0.007431
+Epoch: 73 [ 26/18891 ] 	 Loss: 0.008675
+Epoch: 73 [ 31/18891 ] 	 Loss: 0.009648
+Epoch: 73 [ 36/18891 ] 	 Loss: 0.010175
+====> Epoch: 73 Average train loss: 0.007766
+====> Average valid loss: 0.109019
+Epoch: 74 [ 6/18891 ] 	 Loss: 0.002491
+Epoch: 74 [ 11/18891 ] 	 Loss: 0.008320
+Epoch: 74 [ 16/18891 ] 	 Loss: 0.007910
+Epoch: 74 [ 21/18891 ] 	 Loss: 0.006290
+Epoch: 74 [ 26/18891 ] 	 Loss: 0.010973
+Epoch: 74 [ 31/18891 ] 	 Loss: 0.008328
+Epoch: 74 [ 36/18891 ] 	 Loss: 0.006140
+====> Epoch: 74 Average train loss: 0.007132
+====> Average valid loss: 0.106651
+Epoch: 75 [ 6/18891 ] 	 Loss: 0.006511
+Epoch: 75 [ 11/18891 ] 	 Loss: 0.006373
+Epoch: 75 [ 16/18891 ] 	 Loss: 0.007191
+Epoch: 75 [ 21/18891 ] 	 Loss: 0.007533
+Epoch: 75 [ 26/18891 ] 	 Loss: 0.006190
+Epoch: 75 [ 31/18891 ] 	 Loss: 0.014754
+Epoch: 75 [ 36/18891 ] 	 Loss: 0.006229
+====> Epoch: 75 Average train loss: 0.006673
+====> Average valid loss: 0.103900
+Epoch: 76 [ 6/18891 ] 	 Loss: 0.006030
+Epoch: 76 [ 11/18891 ] 	 Loss: 0.006083
+Epoch: 76 [ 16/18891 ] 	 Loss: 0.002587
+Epoch: 76 [ 21/18891 ] 	 Loss: 0.003553
+Epoch: 76 [ 26/18891 ] 	 Loss: 0.006934
+Epoch: 76 [ 31/18891 ] 	 Loss: 0.006147
+Epoch: 76 [ 36/18891 ] 	 Loss: 0.006711
+====> Epoch: 76 Average train loss: 0.007360
+====> Average valid loss: 0.093835
+Epoch: 77 [ 6/18891 ] 	 Loss: 0.005397
+Epoch: 77 [ 11/18891 ] 	 Loss: 0.009979
+Epoch: 77 [ 16/18891 ] 	 Loss: 0.007999
+Epoch: 77 [ 21/18891 ] 	 Loss: 0.010681
+Epoch: 77 [ 26/18891 ] 	 Loss: 0.007954
+Epoch: 77 [ 31/18891 ] 	 Loss: 0.007144
+Epoch: 77 [ 36/18891 ] 	 Loss: 0.004923
+====> Epoch: 77 Average train loss: 0.006867
+====> Average valid loss: 0.100088
+Epoch: 78 [ 6/18891 ] 	 Loss: 0.008976
+Epoch: 78 [ 11/18891 ] 	 Loss: 0.004051
+Epoch: 78 [ 16/18891 ] 	 Loss: 0.010129
+Epoch: 78 [ 21/18891 ] 	 Loss: 0.010646
+Epoch: 78 [ 26/18891 ] 	 Loss: 0.004633
+Epoch: 78 [ 31/18891 ] 	 Loss: 0.011075
+Epoch: 78 [ 36/18891 ] 	 Loss: 0.006530
+====> Epoch: 78 Average train loss: 0.007483
+====> Average valid loss: 0.091082
+Epoch: 79 [ 6/18891 ] 	 Loss: 0.006337
+Epoch: 79 [ 11/18891 ] 	 Loss: 0.007362
+Epoch: 79 [ 16/18891 ] 	 Loss: 0.006956
+Epoch: 79 [ 21/18891 ] 	 Loss: 0.005072
+Epoch: 79 [ 26/18891 ] 	 Loss: 0.008256
+Epoch: 79 [ 31/18891 ] 	 Loss: 0.005079
+Epoch: 79 [ 36/18891 ] 	 Loss: 0.006423
+====> Epoch: 79 Average train loss: 0.007108
+====> Average valid loss: 0.094506
+Epoch: 80 [ 6/18891 ] 	 Loss: 0.004888
+Epoch: 80 [ 11/18891 ] 	 Loss: 0.006583
+Epoch: 80 [ 16/18891 ] 	 Loss: 0.006508
+Epoch: 80 [ 21/18891 ] 	 Loss: 0.003306
+Epoch: 80 [ 26/18891 ] 	 Loss: 0.005792
+Epoch: 80 [ 31/18891 ] 	 Loss: 0.005207
+Epoch: 80 [ 36/18891 ] 	 Loss: 0.007627
+====> Epoch: 80 Average train loss: 0.007292
+====> Average valid loss: 0.105204
+Epoch: 81 [ 6/18891 ] 	 Loss: 0.005538
+Epoch: 81 [ 11/18891 ] 	 Loss: 0.005572
+Epoch: 81 [ 16/18891 ] 	 Loss: 0.004306
+Epoch: 81 [ 21/18891 ] 	 Loss: 0.008325
+Epoch: 81 [ 26/18891 ] 	 Loss: 0.008451
+Epoch: 81 [ 31/18891 ] 	 Loss: 0.005350
+Epoch: 81 [ 36/18891 ] 	 Loss: 0.010672
+====> Epoch: 81 Average train loss: 0.006511
+====> Average valid loss: 0.095852
+Epoch: 82 [ 6/18891 ] 	 Loss: 0.005006
+Epoch: 82 [ 11/18891 ] 	 Loss: 0.008327
+Epoch: 82 [ 16/18891 ] 	 Loss: 0.009623
+Epoch: 82 [ 21/18891 ] 	 Loss: 0.010278
+Epoch: 82 [ 26/18891 ] 	 Loss: 0.004233
+Epoch: 82 [ 31/18891 ] 	 Loss: 0.012269
+Epoch: 82 [ 36/18891 ] 	 Loss: 0.006839
+====> Epoch: 82 Average train loss: 0.007039
+====> Average valid loss: 0.109682
+Epoch: 83 [ 6/18891 ] 	 Loss: 0.006294
+Epoch: 83 [ 11/18891 ] 	 Loss: 0.005420
+Epoch: 83 [ 16/18891 ] 	 Loss: 0.005998
+Epoch: 83 [ 21/18891 ] 	 Loss: 0.002306
+Epoch: 83 [ 26/18891 ] 	 Loss: 0.011969
+Epoch: 83 [ 31/18891 ] 	 Loss: 0.007953
+Epoch: 83 [ 36/18891 ] 	 Loss: 0.003589
+====> Epoch: 83 Average train loss: 0.006648
+====> Average valid loss: 0.108336
+Epoch: 84 [ 6/18891 ] 	 Loss: 0.005513
+Epoch: 84 [ 11/18891 ] 	 Loss: 0.009436
+Epoch: 84 [ 16/18891 ] 	 Loss: 0.004888
+Epoch: 84 [ 21/18891 ] 	 Loss: 0.003253
+Epoch: 84 [ 26/18891 ] 	 Loss: 0.002229
+Epoch: 84 [ 31/18891 ] 	 Loss: 0.010787
+Epoch: 84 [ 36/18891 ] 	 Loss: 0.011308
+====> Epoch: 84 Average train loss: 0.006218
+====> Average valid loss: 0.091880
+Epoch: 85 [ 6/18891 ] 	 Loss: 0.006791
+Epoch: 85 [ 11/18891 ] 	 Loss: 0.007936
+Epoch: 85 [ 16/18891 ] 	 Loss: 0.007353
+Epoch: 85 [ 21/18891 ] 	 Loss: 0.002875
+Epoch: 85 [ 26/18891 ] 	 Loss: 0.005070
+Epoch: 85 [ 31/18891 ] 	 Loss: 0.003119
+Epoch: 85 [ 36/18891 ] 	 Loss: 0.004514
+====> Epoch: 85 Average train loss: 0.006783
+====> Average valid loss: 0.092646
+Epoch: 86 [ 6/18891 ] 	 Loss: 0.009646
+Epoch: 86 [ 11/18891 ] 	 Loss: 0.002044
+Epoch: 86 [ 16/18891 ] 	 Loss: 0.002462
+Epoch: 86 [ 21/18891 ] 	 Loss: 0.003977
+Epoch: 86 [ 26/18891 ] 	 Loss: 0.007917
+Epoch: 86 [ 31/18891 ] 	 Loss: 0.008734
+Epoch: 86 [ 36/18891 ] 	 Loss: 0.007344
+====> Epoch: 86 Average train loss: 0.006676
+====> Average valid loss: 0.114340
+Epoch: 87 [ 6/18891 ] 	 Loss: 0.010908
+Epoch: 87 [ 11/18891 ] 	 Loss: 0.012340
+Epoch: 87 [ 16/18891 ] 	 Loss: 0.010278
+Epoch: 87 [ 21/18891 ] 	 Loss: 0.007536
+Epoch: 87 [ 26/18891 ] 	 Loss: 0.010552
+Epoch: 87 [ 31/18891 ] 	 Loss: 0.007000
+Epoch: 87 [ 36/18891 ] 	 Loss: 0.005466
+====> Epoch: 87 Average train loss: 0.007685
+====> Average valid loss: 0.102796
+Epoch: 88 [ 6/18891 ] 	 Loss: 0.005751
+Epoch: 88 [ 11/18891 ] 	 Loss: 0.006875
+Epoch: 88 [ 16/18891 ] 	 Loss: 0.012284
+Epoch: 88 [ 21/18891 ] 	 Loss: 0.003107
+Epoch: 88 [ 26/18891 ] 	 Loss: 0.004814
+Epoch: 88 [ 31/18891 ] 	 Loss: 0.012444
+Epoch: 88 [ 36/18891 ] 	 Loss: 0.013921
+====> Epoch: 88 Average train loss: 0.006675
+====> Average valid loss: 0.105785
+Epoch: 89 [ 6/18891 ] 	 Loss: 0.004981
+Epoch: 89 [ 11/18891 ] 	 Loss: 0.007779
+Epoch: 89 [ 16/18891 ] 	 Loss: 0.006201
+Epoch: 89 [ 21/18891 ] 	 Loss: 0.004049
+Epoch: 89 [ 26/18891 ] 	 Loss: 0.005866
+Epoch: 89 [ 31/18891 ] 	 Loss: 0.007800
+Epoch: 89 [ 36/18891 ] 	 Loss: 0.012048
+====> Epoch: 89 Average train loss: 0.006201
+====> Average valid loss: 0.096575
+Epoch: 90 [ 6/18891 ] 	 Loss: 0.003722
+Epoch: 90 [ 11/18891 ] 	 Loss: 0.008711
+Epoch: 90 [ 16/18891 ] 	 Loss: 0.002184
+Epoch: 90 [ 21/18891 ] 	 Loss: 0.005186
+Epoch: 90 [ 26/18891 ] 	 Loss: 0.013775
+Epoch: 90 [ 31/18891 ] 	 Loss: 0.008536
+Epoch: 90 [ 36/18891 ] 	 Loss: 0.003337
+====> Epoch: 90 Average train loss: 0.006916
+====> Average valid loss: 0.099548
+Epoch: 91 [ 6/18891 ] 	 Loss: 0.004600
+Epoch: 91 [ 11/18891 ] 	 Loss: 0.004907
+Epoch: 91 [ 16/18891 ] 	 Loss: 0.008756
+Epoch: 91 [ 21/18891 ] 	 Loss: 0.006184
+Epoch: 91 [ 26/18891 ] 	 Loss: 0.003867
+Epoch: 91 [ 31/18891 ] 	 Loss: 0.004489
+Epoch: 91 [ 36/18891 ] 	 Loss: 0.007050
+====> Epoch: 91 Average train loss: 0.006473
+====> Average valid loss: 0.101307
+Epoch: 92 [ 6/18891 ] 	 Loss: 0.006428
+Epoch: 92 [ 11/18891 ] 	 Loss: 0.005380
+Epoch: 92 [ 16/18891 ] 	 Loss: 0.007091
+Epoch: 92 [ 21/18891 ] 	 Loss: 0.008199
+Epoch: 92 [ 26/18891 ] 	 Loss: 0.009383
+Epoch: 92 [ 31/18891 ] 	 Loss: 0.008707
+Epoch: 92 [ 36/18891 ] 	 Loss: 0.006896
+====> Epoch: 92 Average train loss: 0.007061
+====> Average valid loss: 0.103686
+Epoch: 93 [ 6/18891 ] 	 Loss: 0.008490
+Epoch: 93 [ 11/18891 ] 	 Loss: 0.005679
+Epoch: 93 [ 16/18891 ] 	 Loss: 0.007139
+Epoch: 93 [ 21/18891 ] 	 Loss: 0.003138
+Epoch: 93 [ 26/18891 ] 	 Loss: 0.006032
+Epoch: 93 [ 31/18891 ] 	 Loss: 0.002505
+Epoch: 93 [ 36/18891 ] 	 Loss: 0.006845
+====> Epoch: 93 Average train loss: 0.007531
+====> Average valid loss: 0.100477
+Epoch: 94 [ 6/18891 ] 	 Loss: 0.006273
+Epoch: 94 [ 11/18891 ] 	 Loss: 0.005317
+Epoch: 94 [ 16/18891 ] 	 Loss: 0.007825
+Epoch: 94 [ 21/18891 ] 	 Loss: 0.006440
+Epoch: 94 [ 26/18891 ] 	 Loss: 0.007449
+Epoch: 94 [ 31/18891 ] 	 Loss: 0.008081
+Epoch: 94 [ 36/18891 ] 	 Loss: 0.006136
+====> Epoch: 94 Average train loss: 0.006765
+====> Average valid loss: 0.108866
+Epoch: 95 [ 6/18891 ] 	 Loss: 0.010202
+Epoch: 95 [ 11/18891 ] 	 Loss: 0.005000
+Epoch: 95 [ 16/18891 ] 	 Loss: 0.002310
+Epoch: 95 [ 21/18891 ] 	 Loss: 0.003832
+Epoch: 95 [ 26/18891 ] 	 Loss: 0.001778
+Epoch: 95 [ 31/18891 ] 	 Loss: 0.006139
+Epoch: 95 [ 36/18891 ] 	 Loss: 0.010327
+====> Epoch: 95 Average train loss: 0.006831
+====> Average valid loss: 0.099461
+Epoch: 96 [ 6/18891 ] 	 Loss: 0.006582
+Epoch: 96 [ 11/18891 ] 	 Loss: 0.007484
+Epoch: 96 [ 16/18891 ] 	 Loss: 0.010118
+Epoch: 96 [ 21/18891 ] 	 Loss: 0.002751
+Epoch: 96 [ 26/18891 ] 	 Loss: 0.004163
+Epoch: 96 [ 31/18891 ] 	 Loss: 0.008859
+Epoch: 96 [ 36/18891 ] 	 Loss: 0.013376
+====> Epoch: 96 Average train loss: 0.006637
+====> Average valid loss: 0.109421
+Epoch: 97 [ 6/18891 ] 	 Loss: 0.003894
+Epoch: 97 [ 11/18891 ] 	 Loss: 0.002793
+Epoch: 97 [ 16/18891 ] 	 Loss: 0.003883
+Epoch: 97 [ 21/18891 ] 	 Loss: 0.004191
+Epoch: 97 [ 26/18891 ] 	 Loss: 0.006727
+Epoch: 97 [ 31/18891 ] 	 Loss: 0.005139
+Epoch: 97 [ 36/18891 ] 	 Loss: 0.009984
+====> Epoch: 97 Average train loss: 0.005672
+====> Average valid loss: 0.107819
+Epoch: 98 [ 6/18891 ] 	 Loss: 0.005820
+Epoch: 98 [ 11/18891 ] 	 Loss: 0.007492
+Epoch: 98 [ 16/18891 ] 	 Loss: 0.006618
+Epoch: 98 [ 21/18891 ] 	 Loss: 0.008191
+Epoch: 98 [ 26/18891 ] 	 Loss: 0.005134
+Epoch: 98 [ 31/18891 ] 	 Loss: 0.002584
+Epoch: 98 [ 36/18891 ] 	 Loss: 0.010720
+====> Epoch: 98 Average train loss: 0.006944
+====> Average valid loss: 0.104441
+Epoch: 99 [ 6/18891 ] 	 Loss: 0.003832
+Epoch: 99 [ 11/18891 ] 	 Loss: 0.004574
+Epoch: 99 [ 16/18891 ] 	 Loss: 0.009432
+Epoch: 99 [ 21/18891 ] 	 Loss: 0.006917
+Epoch: 99 [ 26/18891 ] 	 Loss: 0.005845
+Epoch: 99 [ 31/18891 ] 	 Loss: 0.004410
+Epoch: 99 [ 36/18891 ] 	 Loss: 0.008739
+====> Epoch: 99 Average train loss: 0.006731
+====> Average valid loss: 0.106308
+Epoch: 100 [ 6/18891 ] 	 Loss: 0.005896
+Epoch: 100 [ 11/18891 ] 	 Loss: 0.003892
+Epoch: 100 [ 16/18891 ] 	 Loss: 0.010052
+Epoch: 100 [ 21/18891 ] 	 Loss: 0.007268
+Epoch: 100 [ 26/18891 ] 	 Loss: 0.005804
+Epoch: 100 [ 31/18891 ] 	 Loss: 0.006469
+Epoch: 100 [ 36/18891 ] 	 Loss: 0.003781
+====> Epoch: 100 Average train loss: 0.005953
+====> Average valid loss: 0.108401
