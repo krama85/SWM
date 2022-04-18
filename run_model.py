@@ -62,7 +62,7 @@ model = CausalTransitionModel(
 
 model.load_state_dict(torch.load(model_file))
 
-args.dataset = 'test_data/'
+args.dataset = 'test_data/shapesimple_unobserved_5_Sets_demo.h5'
 
 dataset = PathDataset(
     hdf5_file=args.dataset, path_length=10,
