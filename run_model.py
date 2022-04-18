@@ -62,13 +62,14 @@ model = CausalTransitionModel(
 
 model.load_state_dict(torch.load(model_file))
 
+args.dataset = 'test_data/'
+
 dataset = PathDataset(
     hdf5_file=args.dataset, path_length=10,
     action_transform=OneHot(args.action_dim),
     in_memory=False)
 
 obs, actions = dataset[0]
-obs = obs/255
 
 for i in range(len(obs)):
     obs[i] = torch.from_numpy(obs[i]).cuda()
@@ -76,9 +77,9 @@ for i in range(len(obs)):
 for i in range(len(actions)):
     actions[i] = torch.from_numpy(actions[i]).cuda()
 
-for i in range(len(obs)):
+for i in range(len(obs)-1):
 
-    state, _ = model.encode(obs[i].cuda().unsqueeze(0))
+    state, _ = model.encode(obs[i].cuda().unsqueeze(0)/255)
     next_state = model.transition(state, actions[i].cuda().unsqueeze(0))
 
 
