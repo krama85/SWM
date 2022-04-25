@@ -1,0 +1,17 @@
+Number of parameters in Encoder: 720904
+Number of parameters in Decoder: 402723
+Number of parameters in Transition: 1155136
+Number of parameters: 2278763
+Starting model training...
+Epoch: 1 [ 3072/100890 ] 	 Loss: 4451.166016
+Epoch: 1 [ 5632/100890 ] 	 Loss: 3661.209229
+Epoch: 1 [ 8192/100890 ] 	 Loss: 2956.329346
+Epoch: 1 [ 10752/100890 ] 	 Loss: 2529.039307
+Epoch: 1 [ 13312/100890 ] 	 Loss: 2232.743164
+Epoch: 1 [ 15872/100890 ] 	 Loss: 2075.856445
+Epoch: 1 [ 18432/100890 ] 	 Loss: 2015.542603
+Epoch: 1 [ 20992/100890 ] 	 Loss: 1959.950073
+Epoch: 1 [ 23552/100890 ] 	 Loss: 1926.303711
+Epoch: 1 [ 26112/100890 ] 	 Loss: 1877.599243
+Epoch: 1 [ 28672/100890 ] 	 Loss: 1830.345947
+Epoch: 1 [ 31232/100890 ] 	 Loss: 1744.515869
